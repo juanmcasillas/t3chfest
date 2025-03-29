@@ -2,6 +2,8 @@
 
 **Gestión del desarrollo software: requisitos, infraseres y otras bestias**
 
+[Video En Youtube](https://www.youtube.com/watch?v=rbXcZLlCcNI)
+
 ## About
 
 <img src="img/front.png"></img>
